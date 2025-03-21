@@ -18,6 +18,7 @@ This project is created to help me learn the Go programming language. It contain
 
    ```sh
    go run hello.go
+   go run .
    ```
 
 Happy coding!
